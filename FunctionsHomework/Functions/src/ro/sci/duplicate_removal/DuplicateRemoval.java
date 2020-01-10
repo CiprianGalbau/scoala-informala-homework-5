@@ -1,4 +1,4 @@
-package ro.sci.ro.sci.duplicate_removal;
+package ro.sci.duplicate_removal;
 
 import java.util.Scanner;
 
